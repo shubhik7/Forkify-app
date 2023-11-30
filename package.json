@@ -1,0 +1,21 @@
+{
+  "name": "check",
+  "version": "1.0.0",
+  "description": "",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "ss",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.10.0",
+    "package": "^1.0.1"
+  },
+  "dependencies": {
+    "core-js": "^3.33.3",
+    "fracty": "^1.0.11",
+    "regenerator-runtime": "^0.14.0"
+  }
+}
