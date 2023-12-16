@@ -7,7 +7,7 @@ import resultsView from './views/resultsView.js';
 import paginationView from './views/paginationView.js';
 import bookmarksView from './views/bookmarksView.js';
 import addRecipeView from './views/addRrecipeView.js';
-import 'regenerator-runtime/runtime';
+
 //console.log(icons);;
 
 // if (module.hot) {
